@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alter_ego-task/static/css/main.a8f0556d.css",
-    "main.js": "/alter_ego-task/static/js/main.b5268b9d.js",
+    "main.js": "/alter_ego-task/static/js/main.15c18598.js",
     "static/js/787.0a9b9a43.chunk.js": "/alter_ego-task/static/js/787.0a9b9a43.chunk.js",
     "index.html": "/alter_ego-task/index.html",
     "main.a8f0556d.css.map": "/alter_ego-task/static/css/main.a8f0556d.css.map",
-    "main.b5268b9d.js.map": "/alter_ego-task/static/js/main.b5268b9d.js.map",
+    "main.15c18598.js.map": "/alter_ego-task/static/js/main.15c18598.js.map",
     "787.0a9b9a43.chunk.js.map": "/alter_ego-task/static/js/787.0a9b9a43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8f0556d.css",
-    "static/js/main.b5268b9d.js"
+    "static/js/main.15c18598.js"
   ]
 }
